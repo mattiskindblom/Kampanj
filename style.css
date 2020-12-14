@@ -1,0 +1,19 @@
+header {
+    background-color: #041976;
+    padding: 55px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    height: 20px;
+    margin-left: -9px;
+    margin-right: -8px;
+}
+
+bar {
+    background-color: rgb(255, 255, 255);
+    width: 1440px;
+    margin-left: -9px;
+    margin-right: -8px;
+}
+
+
