@@ -16,11 +16,13 @@ Jag testade min hemsida genom att hosta en hemsida där jag kan se vad som händ
 
 ## Positiva erfarenheter
 
-Jag har lärt mig hur jag ska kunna dela upp sidans bredd i 3 delar där jag kan skriva 3 olika text rutor
+Jag har lärt mig hur jag ska kunna dela upp sidans bredd i 3 delar där jag kan skriva 3 olika text rutor men jag har också lärt mig hur krångligt det kan vara
+Jag tycker att allt HTML skrivande gick bra, jag hade inga problem med skrivandet
 
 ## Negativa erfarenheter
 
-Jag ska försöka styla min hemsida i både HTML och CSS samtidigt och jag borde bara försöka styla min hemsida i CSS för att undvika strul
+Jag ska försöka styla min hemsida i både HTML och CSS samtidigt och jag borde bara försöka styla min hemsida i CSS för att undvika strul. 
+Det vart även ganska mycket trul när det kom till att fixa loggan så att den såg bra ut utan att helt ändra storleken osv. 
 
 ## Sammanfattning
 
