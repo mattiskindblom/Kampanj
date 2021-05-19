@@ -116,6 +116,13 @@ body {
     font-size: 14px;
   }
 
+  .footer-bottom {
+    background: #000;
+    width: 100%;
+    padding: 20px 0;
+    text-align: center;
+  }
+
 
 
 
