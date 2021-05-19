@@ -136,3 +136,8 @@ body {
 
 
 
+@media (max-width: 1024px) {
+  .inner_header {
+    width: 80%;
+  }
+}
