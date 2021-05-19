@@ -126,10 +126,12 @@ padding-right: 800px;
 }
 
 .text { 
-padding-left: 15rem;
-padding-right: 15rem;
+width: 40%;
 font-size: 20px;
 padding-bottom: 12rem;
+display: block;
+margin: 0 auto;
+padding-top: 8rem;
 }
 
 
