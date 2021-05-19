@@ -77,7 +77,7 @@ body {
 .text { 
   width: 40%;
   font-size: 20px;
-  padding-bottom: 12rem;
+  padding-bottom: 17rem;
   display: block;
   margin: 0 auto;
   padding-top: 8rem;
@@ -133,7 +133,7 @@ body {
     text-transform: uppercase;
     opacity: .4;
     font-weight: 200;
-  }
+  } 
 
 
 
