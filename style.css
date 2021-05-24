@@ -148,4 +148,8 @@ body {
   .text {
     width: 80%;
   }
+  .center {
+    width: 100%;
+    padding-bottom: 0%;
+  }
 } 

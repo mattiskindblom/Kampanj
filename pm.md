@@ -19,7 +19,8 @@ Jag har blivit mycket bättre på linjering och veta vad jag ska göra, t.ex. ta
 
 ## Negativa erfarenheter
 
-Jag hade några negativa erfaranheter förut med hemsidan när jag inte hade en klar bild i huvudet om vad jag ville göra med hemsidan så det gick åt skogen och nu ville min logga krångla så jag gjorde loggan av text på hemsidan (men det ser ut som en logga ;3)
+Jag hade några negativa erfaranheter förut med hemsidan när jag inte hade en klar bild i huvudet om vad jag ville göra med hemsidan så det gick åt skogen och nu ville min logga krångla så jag gjorde loggan av text på hemsidan (men det ser ut som en logga ;3) 
+Jag testade min hemsida och allt går bra när man resize-ar förutom headern eftersom bilden gör någonting skumt med navigationen. 
 
 ## Sammanfattning
 
