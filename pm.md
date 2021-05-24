@@ -22,11 +22,12 @@ Jag såg också ganska tidigt hur jag inte tyckte om hur texten såg ut i about 
 ## Positiva erfarenheter
 
 Jag har blivit mycket bättre på linjering och veta vad jag ska göra, t.ex. ta bort margin, padding och sätta det som standard på hemsidan så man slipper krångla med en massa små problem längs vägen och jag känner mig också mycket tryggare när det kommer till att designa och veta hur jag vill att det ska se ut. När det kom till valideringen så hade jag bara några små slarvfel och några errors eftersom de inte gillar att mina länkar inte leder någon vart (förutom "about us")
-Valideringen gick väldigt enkelt, det var inte mycket alls som behövdes fixas, dock så är det någonting med valideringen att den inte tycker om länkar som länkar till dokument och inte andra hemsidor men det är ingenting jag kan göra någonting åt såvida jag inte vill länka till en annan hemsida. 
+Valideringen gick väldigt enkelt, det var inte mycket alls som behövdes fixas, dock så är det någonting med valideringen att den inte tycker om länkar som länkar till dokument och inte andra hemsidor men det är ingenting jag kan göra någonting åt såvida jag inte vill länka till en annan hemsida. Och i validering av css så står det typ bara att rem är en "unknown dimension" och jag hade kunnat ändra det till pixlar eller fixa om alla pixlar till rem.
 
 ## Negativa erfarenheter
 
 Jag har inga riktigt dåliga erfarenheter förutom mitt första försök på hemsidan där jag inte blev klar eftersom jag gjorde det för krångligt för mig och lite grann med nya designen att headern inte kunde re-size-as.
+css validatorerna tycker inte om att jag änvänder mig av rem och sen så klagar olika validatorerna på olika saker.
 
 ## Saker som kan förbättras
 
