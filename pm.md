@@ -22,6 +22,7 @@ Jag såg också ganska tidigt hur jag inte tyckte om hur texten såg ut i about 
 ## Positiva erfarenheter
 
 Jag har blivit mycket bättre på linjering och veta vad jag ska göra, t.ex. ta bort margin, padding och sätta det som standard på hemsidan så man slipper krångla med en massa små problem längs vägen och jag känner mig också mycket tryggare när det kommer till att designa och veta hur jag vill att det ska se ut. När det kom till valideringen så hade jag bara några små slarvfel och några errors eftersom de inte gillar att mina länkar inte leder någon vart (förutom "about us")
+Valideringen gick väldigt enkelt, det var inte mycket alls som behövdes fixas, dock så är det någonting med valideringen att den inte tycker om länkar som länkar till dokument och inte andra hemsidor men det är ingenting jag kan göra någonting åt såvida jag inte vill länka till en annan hemsida. 
 
 ## Negativa erfarenheter
 
