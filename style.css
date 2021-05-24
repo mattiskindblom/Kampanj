@@ -91,6 +91,9 @@ body {
     padding-top: 40px;
     color: #fff;
   }
+  .later_logga {
+    display: none;
+  }
   
  
   .footer-content {
@@ -140,9 +143,16 @@ body {
   .inner_header {
     width: 80%;
   }
-
-
-}
+  .logga {
+    display: none;
+  }
+  .later_logga {
+  height: 20%;
+  display: table;
+  float: left;
+  height: auto;
+  width: 200px;
+}}
 
 @media (max-width: 750px) {
   .text {
@@ -151,5 +161,5 @@ body {
   .center {
     width: 100%;
     padding-bottom: 0%;
-  }
-} 
+}}
+

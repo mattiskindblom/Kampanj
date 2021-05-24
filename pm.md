@@ -16,11 +16,11 @@ Jag testade min hemsida genom att hosta en hemsida där jag kan se vad som händ
 ## Positiva erfarenheter
 
 Jag har blivit mycket bättre på linjering och veta vad jag ska göra, t.ex. ta bort margin, padding och sätta det som standard på hemsidan så man slipper krångla med en massa små problem längs vägen och jag känner mig också mycket tryggare när det kommer till att designa och veta hur jag vill att det ska se ut. När det kom till valideringen så hade jag bara några små slarvfel och några errors eftersom de inte gillar att mina länkar inte leder någon vart (förutom "about us")
+Jag testade min hemsida och märkte att headern inte kunde resize-a men det fixade jag genom att ta bort loggan ifrån .inner_header genom att göra display: none och gjorde ett till logo element genom att göra en reverse logga. Jag satte den som display none i början och när innerheader loggan försvinner kommer den andra loggan upp i headern (outer header) och det fixade problemet jag hade med navigationen (tills man kommer till width: 530px)
 
 ## Negativa erfarenheter
 
 Jag hade några negativa erfaranheter förut med hemsidan när jag inte hade en klar bild i huvudet om vad jag ville göra med hemsidan så det gick åt skogen och nu ville min logga krångla så jag gjorde loggan av text på hemsidan (men det ser ut som en logga ;3) 
-Jag testade min hemsida och allt går bra när man resize-ar förutom headern eftersom bilden gör någonting skumt med navigationen. 
 
 ## Sammanfattning
 
