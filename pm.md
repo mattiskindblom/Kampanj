@@ -19,6 +19,10 @@ Jag testade min hemsida och märkte att headern inte kunde resize-a men det fixa
 Jag har prövat hur hemsidan blir när den resize-as, jag såg att bilden under mat-texten i index dokumentet inte såg så bra ut så jag ändrade på det så att när hemsidan blir tillräckligt liten så smälter den ihop med footern och jag ändrade dessutom så att bilden är större "over all" så att den sticker ut mer och ger hemsidan lite mer variation så att allt inte bara blir rakt och tråkigt men tänkte också på att den inte ska sticka ut för mycket. 
 Jag såg också ganska tidigt hur jag inte tyckte om hur texten såg ut i about sektionen så jag ändrade den och gjorde mycket mer luft i texten så att allt inte ska se ut som en låda där allt bara har pressats in men det fixade jag bara genom att lägga till margin
 
+Jag testade min hemsida på andra webbplatser så som explorer och där fungerade den på exakt samma sätt, inga problem alls.
+
+Jag har optimerat mina bilder för att passa in i hemsidan så att dom inte ska vara distraherande, dom ska aldrig vara för stora och de ska bara vara där för att ge sidan lite mer variation. 
+
 ## Positiva erfarenheter
 
 Jag har blivit mycket bättre på linjering och veta vad jag ska göra, t.ex. ta bort margin, padding och sätta det som standard på hemsidan så man slipper krångla med en massa små problem längs vägen och jag känner mig också mycket tryggare när det kommer till att designa och veta hur jag vill att det ska se ut. När det kom till valideringen så hade jag bara några små slarvfel och några errors eftersom de inte gillar att mina länkar inte leder någon vart (förutom "about us")
